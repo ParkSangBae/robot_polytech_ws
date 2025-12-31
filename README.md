@@ -3,7 +3,7 @@
 아래 명령어로 한 번에 필요한 pip 패키지를 설치 가능
 
     pip install -r requirements.txt 
-   
+    msg 관련 에러시, "sudo apt install ros-humble-nav2-msgs" 실행
 
 2. ROS PKG 컴파일
 아래 경로로 이동하여, ros 컴파일
